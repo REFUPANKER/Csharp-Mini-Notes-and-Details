@@ -11,4 +11,3 @@ CSharp notes/tricks in one repo
 * [WPF](https://github.com/REFUPANKER/ChsharpMiniNotes/tree/C%23/WPF)
 * [Xamarin](https://github.com/REFUPANKER/ChsharpMiniNotes/tree/C%23/Xamarin)
 
-
