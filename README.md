@@ -2,6 +2,6 @@
 
 # CSharp notes in one repo
 ## Titles
-* [Core](https://github.com/REFUPANKER/ChsharpMiniNotes/tree/C%23/Core/WebScrape)
+* [Core](https://github.com/REFUPANKER/ChsharpMiniNotes/tree/C%23/Core)
 * [WPF](https://github.com/REFUPANKER/ChsharpMiniNotes/tree/C%23/WPF)
 * [Xamarin](https://github.com/REFUPANKER/ChsharpMiniNotes/tree/C%23/Xamarin)
