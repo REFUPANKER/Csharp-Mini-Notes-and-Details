@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+  
+  <!-- regular csporj code -->
+
+    <PublishSingleFile>true</PublishSingleFile>
+    <SelfContained>false</SelfContained><!-- app size rises if you set this to true because adds all dlls into output file -->
+    <RuntimeIdentifier>win-x64</RuntimeIdentifier>
+    <PublishReadyToRun>true</PublishReadyToRun>
+
+  </PropertyGroup>
+
+</Project>
